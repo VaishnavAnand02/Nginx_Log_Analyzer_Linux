@@ -1,2 +1,2 @@
-# Log_archieve_Tool
-a simple bash tool for achieving directories 
+# Nginx_Log_Analyze
+a simple bash tool for analyzing log 
